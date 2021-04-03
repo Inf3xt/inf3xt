@@ -1,6 +1,7 @@
 # Hey there!
 
 Welcome to [my page!](https://github.com/Inf3xt)
+<img align="right" src="https://komarev.com/ghpvc/?username=inf3xt&style=flat&label=Profile+Views&color=181717">
 
 ![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inf3xt&theme=tokyonight&layout=compact)
 

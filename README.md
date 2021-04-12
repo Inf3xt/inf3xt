@@ -1,4 +1,4 @@
-# Hey there!
+# Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">!
 
 Welcome to [my page!](https://github.com/Inf3xt)
 <img align="right" src="https://komarev.com/ghpvc/?username=inf3xt&style=flat&label=Profile+Views&color=181717">

@@ -1,3 +1,4 @@
-###### **Just a guy who knows a thing or two about computers.**
-
-Who actually reads these?
+<p align="center"> 
+  Number of visits!<br>
+  <img src="https://profile-counter.glitch.me/inf3xt/count.svg" />
+</p>

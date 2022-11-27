@@ -82,7 +82,7 @@
 ---
 
 <details>
-    <summary>My GitHub stats!</summary>
+    <summary>⭐ My GitHub stats!</summary>
     <br>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Inf3xt&show_icons=true&theme=transparent&count_private=true" alt="Inf3xt's GitHub stats!" />
     
